@@ -11,21 +11,21 @@
 ### 安裝 Docker Desktop
 - [官網](https://docs.docker.com/desktop/setup/install/windows-install/) 下載應用程式(依個人電腦規格選取)
 - 依下列步驟安裝
-    - **開啟 .exe 檔案**
-        ![alt text](./src/01.%20點exe檔.png)
-    - **系統詢問是否執行，點擊 Yes**
-        ![alt text](./src/02.%20UAC_Yes.png)
-    - **配置設定維持預設即可，完成點選OK**
-        ![alt text](./src/03.%20Configuration.png)
-    - 等待 Docker Desktop 解壓縮檔案
-        ![alt text](./src/04.%20Unpacking%20files.png)
-    - 出現如下畫面即安裝成功，完成點選Close
-        ![alt text](./src/05.%20Installed%20Success.png)
+    - **開啟 .exe 檔案** \
+    ![alt text](./src/01.%20點exe檔.png)
+    - **系統詢問是否執行，點擊 Yes** \
+    ![alt text](./src/02.%20UAC_Yes.png)
+    - **配置設定維持預設即可，完成點選OK** \
+    ![alt text](./src/03.%20Configuration.png)
+    - **等待 Docker Desktop 解壓縮檔案** \
+    ![alt text](./src/04.%20Unpacking%20files.png)
+    - **出現如下畫面即安裝成功，完成點選Close** \
+    ![alt text](./src/05.%20Installed%20Success.png)
 - 開啟 Docker Desktop \
 ![alt text](./src/06.%20DockerDesktopIcon.png)
 - 點擊 Accept \
 ![alt text](./src/07.%20Accept.png)
-- 後續部分皆可 Skip 不影響操作及建置
+- 後續部分皆可 Skip 不影響操作及建置 \
 ![alt text](./src/08.%20Skip%20Login.png)
 - 進到如下畫面即設定啟動完成 \
 ![alt text](./src/09.%20Started.png)
