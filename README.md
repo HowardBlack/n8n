@@ -7,6 +7,8 @@
     >設定外部流量 Inbound 的 port及對應服務主機的 port    
 - Docker Desktop
     >架設服務的平台
+- 域名提供商
+    >設定外部訪問的域名網址對應服務主機的對外IP，藉此避免使用難以記住的IP Address
 
 ### 安裝 Docker Desktop
 - [官網](https://docs.docker.com/desktop/setup/install/windows-install/) 下載應用程式(依個人電腦規格選取)
@@ -176,3 +178,4 @@
 - [安裝 Docker Desktop](https://docs.docker.com/desktop/setup/install/windows-install/)
 - [什麼是 Docker Compose?](https://docs.docker.com/compose/)
 - [什麼是 Volumes?](https://docs.docker.com/engine/storage/volumes/)
+- [什麼是 DNS？](https://host.com.tw/DNS?gad_source=1&gclid=CjwKCAiAt4C-BhBcEiwA8Kp0CX6jUqJPy0GysgrlGiF27sgfr_4EU54Q8NnC-mZfKAoDJ_UM1aXVBxoCnFwQAvD_BwE)
